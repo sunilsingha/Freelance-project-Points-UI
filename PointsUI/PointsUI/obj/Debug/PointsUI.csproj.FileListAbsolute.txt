@@ -1,0 +1,210 @@
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\bin\Debug\PointsUI.exe.config
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\bin\Debug\PointsUI.exe
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\bin\Debug\PointsUI.pdb
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\bin\Debug\MetroFramework.Design.dll
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\bin\Debug\MetroFramework.dll
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\bin\Debug\MetroFramework.Fonts.dll
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.csprojResolveAssemblyReference.cache
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.FrmMain.resources
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.Properties.Resources.resources
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.GenerateResource.cache
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.CoreCompileInputs.cache
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.CopyComplete
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.exe
+c:\users\c5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.pdb
+C:\Users\C5195092\Source\Repos\PointsUI\PointsUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\C5195092\Source\Repos\PointsUI\PointsUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\C5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.FrmContractor.resources
+C:\Users\C5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.FrmPoints.resources
+C:\Users\C5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.FrmSearchContractor.resources
+C:\Users\C5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.ResolveComReference.cache
+C:\Users\C5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.FrmContractorList.resources
+C:\Users\C5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.FrmPointsList.resources
+C:\Users\C5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.FrmListContractors.resources
+C:\Users\C5195092\Source\Repos\PointsUI\PointsUI\obj\Debug\PointsUI.FrmSupervisor.resources
+D:\FreeLance Development\PointsUI\PointsUI\bin\Debug\PointsUI.exe.config
+D:\FreeLance Development\PointsUI\PointsUI\bin\Debug\PointsUI.exe
+D:\FreeLance Development\PointsUI\PointsUI\bin\Debug\PointsUI.pdb
+D:\FreeLance Development\PointsUI\PointsUI\bin\Debug\MetroFramework.Design.dll
+D:\FreeLance Development\PointsUI\PointsUI\bin\Debug\MetroFramework.dll
+D:\FreeLance Development\PointsUI\PointsUI\bin\Debug\MetroFramework.Fonts.dll
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.ResolveComReference.cache
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.FrmContractor.resources
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.FrmContractorList.resources
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.FrmListContractors.resources
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.FrmMain.resources
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.FrmPoints.resources
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.FrmPointsList.resources
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.FrmSearchContractor.resources
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.FrmSupervisor.resources
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.Properties.Resources.resources
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.GenerateResource.Cache
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.exe
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.pdb
+D:\FreeLance Development\PointsUI\PointsUI\obj\Debug\PointsUI.csprojResolveAssemblyReference.cache
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\bin\Debug\PointsUI.exe.config
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\bin\Debug\PointsUI.exe
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\bin\Debug\PointsUI.pdb
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\bin\Debug\MetroFramework.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.ResolveComReference.cache
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.FrmContractor.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.FrmDBSelection.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.FrmListContractors.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.FrmMain.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.FrmPoints.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.FrmPointsList.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.FrmPointsNew.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.FrmSearchContractor.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.FrmSupervisor.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.Properties.Resources.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.GenerateResource.cache
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.CoreCompileInputs.cache
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.CopyComplete
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.exe
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.pdb
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.Forms.FrmLogin.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.FrmContractorPending.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.Forms.FrmPointsTransactionPending.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April\PointsUI\PointsUI\obj\Debug\PointsUI.Forms.FrmManageUsers.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\PointsUI.exe.config
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\PointsUI.exe
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\PointsUI.pdb
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\MetroFramework.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.ResolveComReference.cache
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmContractor.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmContractorPending.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmDBSelection.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmListContractors.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.Forms.FrmLogin.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmMain.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.Forms.FrmManageUsers.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmPoints.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmPointsNew.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.Forms.FrmPointsTransactionPending.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmSearchContractor.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmSupervisor.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.Properties.Resources.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.GenerateResource.cache
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.CoreCompileInputs.cache
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.CopyComplete
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.exe
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.pdb
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.Forms.FrmReportFilter.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 29-April_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.csprojAssemblyReference.cache
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\PointsUI.exe.config
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\PointsUI.exe
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\PointsUI.pdb
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\MetroFramework.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.ResolveComReference.cache
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmContractor.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmContractorPending.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmDBSelection.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmListContractors.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.Forms.FrmLogin.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmMain.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.Forms.FrmManageUsers.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmPoints.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmPointsNew.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.Forms.FrmPointsTransactionPending.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.Forms.FrmReportFilter.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmSearchContractor.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.FrmSupervisor.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.Properties.Resources.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.GenerateResource.cache
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.CoreCompileInputs.cache
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.csproj.CopyComplete
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.exe
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.pdb
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.Forms.FrmSMSCredentials.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\obj\Debug\PointsUI.Forms.FrmWebCam.resources
+C:\Users\C5195092\Source\Repos\PointsUI\Raghu\PointsUI 26-May_Complete\PointsUI\PointsUI\bin\Debug\SmartHotKey.dll

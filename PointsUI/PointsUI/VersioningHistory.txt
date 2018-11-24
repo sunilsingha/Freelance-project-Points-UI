@@ -1,0 +1,32 @@
+﻿Ver 0.1
+Reports are pending.
+
+Ver 0.2
+Updated Reportviewer - Filters can be applied on Contractor Name, Supervisor Name, Dates
+last user will be known
+
+Ver 0.3
+Updated Asia and Appolo litres, added Points table tab and updated reports as well
+
+Ver0.4
+Updated form design as per 1280*1024 resolution
+Added SMS module
+
+Ver0.5
+User can save and modify image.
+Webcamera is also added.
+Contractor name now starts with 0001
+
+Ver0.6
+SuperUsr support added.
+multiple sms can be sent.
+Added approve all for points pending.
+
+Ver0.7
+Added totalpoints and totalpoints Approved field in DB and adapted the application to send total points.
+
+Ver0.8
+App has been updated to work on screen resolution 1023*768
+
+ver0.9
+Updated Reports with getting total points and contractor number

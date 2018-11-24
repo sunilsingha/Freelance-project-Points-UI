@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetTransactions" targetNamespace="http://tempuri.org/DataSetTransactions.xsd" xmlns:mstns="http://tempuri.org/DataSetTransactions.xsd" xmlns="http://tempuri.org/DataSetTransactions.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="connnection" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="connnection (Settings)" PropertyReference="ApplicationSettings.PointsUI.Properties.Settings.GlobalReference.Default.connnection" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="qryPointsTransactionsTableAdapter" GeneratorDataComponentClassName="qryPointsTransactionsTableAdapter" Name="qryPointsTransactions" UserDataComponentName="qryPointsTransactionsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="connnection (Settings)" DbObjectName="qryPointsTransactions" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        qryPointsTransactions.*
+FROM            qryPointsTransactions</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ID" DataSetColumn="ID" />
+              <Mapping SourceColumn="CreatedOn" DataSetColumn="CreatedOn" />
+              <Mapping SourceColumn="CreatedByUserId" DataSetColumn="CreatedByUserId" />
+              <Mapping SourceColumn="UpdatedOn" DataSetColumn="UpdatedOn" />
+              <Mapping SourceColumn="UpdatedById" DataSetColumn="UpdatedById" />
+              <Mapping SourceColumn="TransactionDate" DataSetColumn="TransactionDate" />
+              <Mapping SourceColumn="VoucherNo" DataSetColumn="VoucherNo" />
+              <Mapping SourceColumn="Kgs" DataSetColumn="Kgs" />
+              <Mapping SourceColumn="Lts" DataSetColumn="Lts" />
+              <Mapping SourceColumn="ContractorID" DataSetColumn="ContractorID" />
+              <Mapping SourceColumn="IsCreatedByUser" DataSetColumn="IsCreatedByUser" />
+              <Mapping SourceColumn="IsCreatedByAdmin" DataSetColumn="IsCreatedByAdmin" />
+              <Mapping SourceColumn="IsApprovedByAdmin" DataSetColumn="IsApprovedByAdmin" />
+              <Mapping SourceColumn="ApprovedOn" DataSetColumn="ApprovedOn" />
+              <Mapping SourceColumn="ContractorName" DataSetColumn="ContractorName" />
+              <Mapping SourceColumn="ContractorMobileNumber" DataSetColumn="ContractorMobileNumber" />
+              <Mapping SourceColumn="ContractorAddress" DataSetColumn="ContractorAddress" />
+              <Mapping SourceColumn="ContractorIdType" DataSetColumn="ContractorIdType" />
+              <Mapping SourceColumn="SupervisorId" DataSetColumn="SupervisorId" />
+              <Mapping SourceColumn="SupervisorName" DataSetColumn="SupervisorName" />
+              <Mapping SourceColumn="CreatedByUserName" DataSetColumn="CreatedByUserName" />
+              <Mapping SourceColumn="UpdatedByUserName" DataSetColumn="UpdatedByUserName" />
+              <Mapping SourceColumn="ApprovedUserName" DataSetColumn="ApprovedUserName" />
+              <Mapping SourceColumn="Status" DataSetColumn="Status" />
+              <Mapping SourceColumn="ContractorNo" DataSetColumn="ContractorNo" />
+              <Mapping SourceColumn="AsianLitres" DataSetColumn="AsianLitres" />
+              <Mapping SourceColumn="ApolloLitres" DataSetColumn="ApolloLitres" />
+              <Mapping SourceColumn="Points" DataSetColumn="Points" />
+              <Mapping SourceColumn="InPoint" DataSetColumn="InPoint" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetTransactions" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetTransactions" msprop:Generator_UserDSName="DataSetTransactions">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="qryPointsTransactions" msprop:Generator_TableClassName="qryPointsTransactionsDataTable" msprop:Generator_TableVarName="tableqryPointsTransactions" msprop:Generator_TablePropName="qryPointsTransactions" msprop:Generator_RowDeletingName="qryPointsTransactionsRowDeleting" msprop:Generator_RowChangingName="qryPointsTransactionsRowChanging" msprop:Generator_RowEvHandlerName="qryPointsTransactionsRowChangeEventHandler" msprop:Generator_RowDeletedName="qryPointsTransactionsRowDeleted" msprop:Generator_UserTableName="qryPointsTransactions" msprop:Generator_RowChangedName="qryPointsTransactionsRowChanged" msprop:Generator_RowEvArgName="qryPointsTransactionsRowChangeEvent" msprop:Generator_RowClassName="qryPointsTransactionsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:int" minOccurs="0" />
+              <xs:element name="CreatedOn" msprop:Generator_ColumnVarNameInTable="columnCreatedOn" msprop:Generator_ColumnPropNameInRow="CreatedOn" msprop:Generator_ColumnPropNameInTable="CreatedOnColumn" msprop:Generator_UserColumnName="CreatedOn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="CreatedByUserId" msprop:Generator_ColumnVarNameInTable="columnCreatedByUserId" msprop:Generator_ColumnPropNameInRow="CreatedByUserId" msprop:Generator_ColumnPropNameInTable="CreatedByUserIdColumn" msprop:Generator_UserColumnName="CreatedByUserId" type="xs:int" minOccurs="0" />
+              <xs:element name="UpdatedOn" msprop:Generator_ColumnVarNameInTable="columnUpdatedOn" msprop:Generator_ColumnPropNameInRow="UpdatedOn" msprop:Generator_ColumnPropNameInTable="UpdatedOnColumn" msprop:Generator_UserColumnName="UpdatedOn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="UpdatedById" msprop:Generator_ColumnVarNameInTable="columnUpdatedById" msprop:Generator_ColumnPropNameInRow="UpdatedById" msprop:Generator_ColumnPropNameInTable="UpdatedByIdColumn" msprop:Generator_UserColumnName="UpdatedById" type="xs:int" minOccurs="0" />
+              <xs:element name="TransactionDate" msprop:Generator_ColumnVarNameInTable="columnTransactionDate" msprop:Generator_ColumnPropNameInRow="TransactionDate" msprop:Generator_ColumnPropNameInTable="TransactionDateColumn" msprop:Generator_UserColumnName="TransactionDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="VoucherNo" msprop:Generator_ColumnVarNameInTable="columnVoucherNo" msprop:Generator_ColumnPropNameInRow="VoucherNo" msprop:Generator_ColumnPropNameInTable="VoucherNoColumn" msprop:Generator_UserColumnName="VoucherNo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Kgs" msprop:Generator_ColumnVarNameInTable="columnKgs" msprop:Generator_ColumnPropNameInRow="Kgs" msprop:Generator_ColumnPropNameInTable="KgsColumn" msprop:Generator_UserColumnName="Kgs" type="xs:double" minOccurs="0" />
+              <xs:element name="Lts" msprop:Generator_ColumnVarNameInTable="columnLts" msprop:Generator_ColumnPropNameInRow="Lts" msprop:Generator_ColumnPropNameInTable="LtsColumn" msprop:Generator_UserColumnName="Lts" type="xs:double" minOccurs="0" />
+              <xs:element name="ContractorID" msprop:Generator_ColumnVarNameInTable="columnContractorID" msprop:Generator_ColumnPropNameInRow="ContractorID" msprop:Generator_ColumnPropNameInTable="ContractorIDColumn" msprop:Generator_UserColumnName="ContractorID" type="xs:int" minOccurs="0" />
+              <xs:element name="IsCreatedByUser" msprop:Generator_ColumnVarNameInTable="columnIsCreatedByUser" msprop:Generator_ColumnPropNameInRow="IsCreatedByUser" msprop:Generator_ColumnPropNameInTable="IsCreatedByUserColumn" msprop:Generator_UserColumnName="IsCreatedByUser" type="xs:boolean" minOccurs="0" />
+              <xs:element name="IsCreatedByAdmin" msprop:Generator_ColumnVarNameInTable="columnIsCreatedByAdmin" msprop:Generator_ColumnPropNameInRow="IsCreatedByAdmin" msprop:Generator_ColumnPropNameInTable="IsCreatedByAdminColumn" msprop:Generator_UserColumnName="IsCreatedByAdmin" type="xs:boolean" minOccurs="0" />
+              <xs:element name="IsApprovedByAdmin" msprop:Generator_ColumnVarNameInTable="columnIsApprovedByAdmin" msprop:Generator_ColumnPropNameInRow="IsApprovedByAdmin" msprop:Generator_ColumnPropNameInTable="IsApprovedByAdminColumn" msprop:Generator_UserColumnName="IsApprovedByAdmin" type="xs:boolean" minOccurs="0" />
+              <xs:element name="ApprovedOn" msprop:Generator_ColumnVarNameInTable="columnApprovedOn" msprop:Generator_ColumnPropNameInRow="ApprovedOn" msprop:Generator_ColumnPropNameInTable="ApprovedOnColumn" msprop:Generator_UserColumnName="ApprovedOn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ContractorName" msprop:Generator_ColumnVarNameInTable="columnContractorName" msprop:Generator_ColumnPropNameInRow="ContractorName" msprop:Generator_ColumnPropNameInTable="ContractorNameColumn" msprop:Generator_UserColumnName="ContractorName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ContractorMobileNumber" msprop:Generator_ColumnVarNameInTable="columnContractorMobileNumber" msprop:Generator_ColumnPropNameInRow="ContractorMobileNumber" msprop:Generator_ColumnPropNameInTable="ContractorMobileNumberColumn" msprop:Generator_UserColumnName="ContractorMobileNumber" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ContractorAddress" msprop:Generator_ColumnVarNameInTable="columnContractorAddress" msprop:Generator_ColumnPropNameInRow="ContractorAddress" msprop:Generator_ColumnPropNameInTable="ContractorAddressColumn" msprop:Generator_UserColumnName="ContractorAddress" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="536870910" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ContractorIdType" msprop:Generator_ColumnVarNameInTable="columnContractorIdType" msprop:Generator_ColumnPropNameInRow="ContractorIdType" msprop:Generator_ColumnPropNameInTable="ContractorIdTypeColumn" msprop:Generator_UserColumnName="ContractorIdType" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SupervisorId" msprop:Generator_ColumnVarNameInTable="columnSupervisorId" msprop:Generator_ColumnPropNameInRow="SupervisorId" msprop:Generator_ColumnPropNameInTable="SupervisorIdColumn" msprop:Generator_UserColumnName="SupervisorId" type="xs:int" minOccurs="0" />
+              <xs:element name="SupervisorName" msprop:Generator_ColumnVarNameInTable="columnSupervisorName" msprop:Generator_ColumnPropNameInRow="SupervisorName" msprop:Generator_ColumnPropNameInTable="SupervisorNameColumn" msprop:Generator_UserColumnName="SupervisorName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CreatedByUserName" msprop:Generator_ColumnVarNameInTable="columnCreatedByUserName" msprop:Generator_ColumnPropNameInRow="CreatedByUserName" msprop:Generator_ColumnPropNameInTable="CreatedByUserNameColumn" msprop:Generator_UserColumnName="CreatedByUserName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="UpdatedByUserName" msprop:Generator_ColumnVarNameInTable="columnUpdatedByUserName" msprop:Generator_ColumnPropNameInRow="UpdatedByUserName" msprop:Generator_ColumnPropNameInTable="UpdatedByUserNameColumn" msprop:Generator_UserColumnName="UpdatedByUserName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ApprovedUserName" msprop:Generator_ColumnVarNameInTable="columnApprovedUserName" msprop:Generator_ColumnPropNameInRow="ApprovedUserName" msprop:Generator_ColumnPropNameInTable="ApprovedUserNameColumn" msprop:Generator_UserColumnName="ApprovedUserName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Status" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnPropNameInTable="StatusColumn" msprop:Generator_UserColumnName="Status" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ContractorNo" msprop:Generator_ColumnVarNameInTable="columnContractorNo" msprop:Generator_ColumnPropNameInRow="ContractorNo" msprop:Generator_ColumnPropNameInTable="ContractorNoColumn" msprop:Generator_UserColumnName="ContractorNo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AsianLitres" msprop:Generator_ColumnVarNameInTable="columnAsianLitres" msprop:Generator_ColumnPropNameInRow="AsianLitres" msprop:Generator_ColumnPropNameInTable="AsianLitresColumn" msprop:Generator_UserColumnName="AsianLitres" type="xs:double" minOccurs="0" />
+              <xs:element name="ApolloLitres" msprop:Generator_ColumnVarNameInTable="columnApolloLitres" msprop:Generator_ColumnPropNameInRow="ApolloLitres" msprop:Generator_ColumnPropNameInTable="ApolloLitresColumn" msprop:Generator_UserColumnName="ApolloLitres" type="xs:double" minOccurs="0" />
+              <xs:element name="Points" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnPoints" msprop:Generator_ColumnPropNameInRow="Points" msprop:Generator_ColumnPropNameInTable="PointsColumn" msprop:Generator_UserColumnName="Points" type="xs:double" minOccurs="0" />
+              <xs:element name="InPoint" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnInPoint" msprop:Generator_ColumnPropNameInRow="InPoint" msprop:Generator_ColumnPropNameInTable="InPointColumn" msprop:Generator_UserColumnName="InPoint" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
